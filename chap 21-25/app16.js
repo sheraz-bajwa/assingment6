@@ -1,0 +1,3 @@
+var str = "U n i v e r s i t y  O f  K a r a c h i "
+    var array = str.split(" "); 
+    document.write(array[0],"<br>",array[1],"<br>",array[2],"<br>",array[3],"<br>",array[4],"<br>",array[5],"<br>",array[6],"<br>",array[7],"<br>",array[8],"<br>",array[9],"<br>",array[10],"<br>",array[11],"<br>",array[12],"<br>",array[13],"<br>",array[14],"<br>",array[15],"<br>",array[16],"<br>",array[17],"<br>",array[18],"<br>",array[19],"<br>",array[20],"<br>",array[21]);
